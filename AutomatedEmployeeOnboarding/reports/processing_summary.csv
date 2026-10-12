@@ -1,0 +1,16 @@
+﻿row_number,employee_id,name,department,role,joining_date,manager,status,message,txt_file,pdf_file
+2,EMP007,Neha Sharma,Engineering,Backend Developer,2026-11-10,Rahul Sharma,SUCCESS,TXT and PDF generated,output\EMP007_Neha_Sharma\onboarding.txt,output\EMP007_Neha_Sharma\onboarding.pdf
+3,EMP008,Arjun Mehta,Data Analytics,Data Engineer,2026-11-12,Sneha Rao,SUCCESS,TXT and PDF generated,output\EMP008_Arjun_Mehta\onboarding.txt,output\EMP008_Arjun_Mehta\onboarding.pdf
+4,EMP009,Sai Kumar,HR,HR Executive,2026-11-14,Anita Verma,SUCCESS,TXT and PDF generated,output\EMP009_Sai_Kumar\onboarding.txt,output\EMP009_Sai_Kumar\onboarding.pdf
+5,EMP010,Pooja Singh,Finance,Financial Analyst,2026-11-15,Meena Iyer,SUCCESS,TXT and PDF generated,output\EMP010_Pooja_Singh\onboarding.txt,output\EMP010_Pooja_Singh\onboarding.pdf
+6,EMP011,Vikram Joshi,IT Support,System Administrator,2026-11-18,Kiran Kumar,SUCCESS,TXT and PDF generated,output\EMP011_Vikram_Joshi\onboarding.txt,output\EMP011_Vikram_Joshi\onboarding.pdf
+7,EMP012,Asha Nair,Marketing,Content Strategist,2026-11-20,Ritika Das,SUCCESS,TXT and PDF generated,output\EMP012_Asha_Nair\onboarding.txt,output\EMP012_Asha_Nair\onboarding.pdf
+8,EMP013,Rohan Das,Sales,Sales Associate,2026-11-22,Farhan Ali,SUCCESS,TXT and PDF generated,output\EMP013_Rohan_Das\onboarding.txt,output\EMP013_Rohan_Das\onboarding.pdf
+9,EMP014,Deepa Menon,Product,Product Analyst,2026-11-24,Harshm Patel,SUCCESS,TXT and PDF generated,output\EMP014_Deepa_Menon\onboarding.txt,output\EMP014_Deepa_Menon\onboarding.pdf
+10,EMP015,Ananya Bose,Marketing,Brand Associate,2026-12-16,Ritika Das,SUCCESS,TXT and PDF generated,output\EMP015_Ananya_Bose\onboarding.txt,output\EMP015_Ananya_Bose\onboarding.pdf
+11,EMP025,,Engineering,Developer,2026-12-18,Rahul Sharma,FAILED,Employee Name is required,,
+12,EMP025,Duplicate ID,Engineering,Developer,2026-12-20,Rahul Sharma,FAILED,Duplicate Employee ID: EMP025,,
+13,EMP026,Another Employee,Engineering,Developer,2026-12-22,Rahul Sharma,SUCCESS,TXT and PDF generated,output\EMP026_Another_Employee\onboarding.txt,output\EMP026_Another_Employee\onboarding.pdf
+14,EMP027,New Joiner,HR,,2026-12-24,Anita Verma,FAILED,Role is required,,
+15,EMP028,Incomplete Entry,,,,2026-12-26,FAILED,Department is required; Role is required; Joining Date is required,,
+16,EMP029,Anil Reddy,,Developer,2026-12-28,Rahul Rao,FAILED,Department is required,,

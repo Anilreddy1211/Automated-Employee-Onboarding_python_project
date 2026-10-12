@@ -1,0 +1,8 @@
+employee_id,name,department,role,joining_date,manager
+EMP001,Anil Kumar,Engineering,Python Trainee,2026-10-15,Rahul Sharma
+EMP002,Priya Reddy,Data Analytics,Data Analyst,2026-10-20,Sneha Rao
+EMP003,Arjun Rao,IT Support,Support Engineer,2026-10-25,Kiran Kumar
+EMP004,,Finance,Analyst,2026-10-28,Meena
+EMP005,Ravi Kumar,Engineering,Developer,2026-11-01,Rahul Sharma
+EMP006,Duplicate ID,Engineering,Developer,2026-11-05,Rahul Sharma
+EMP001,Duplicate Anil,Engineering,Developer,2026-11-06,Rahul Sharma

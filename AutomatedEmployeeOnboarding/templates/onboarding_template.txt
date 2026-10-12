@@ -1,0 +1,19 @@
+EMPLOYEE ONBOARDING RECORD
+==========================
+
+Employee ID: {{employee_id}}
+Employee Name: {{name}}
+Department: {{department}}
+Role: {{role}}
+Joining Date: {{joining_date}}
+Reporting Manager: {{manager}}
+Processed Date: {{processed_date}}
+
+ONBOARDING CHECKLIST
+[ ] Verify identity and employment documents
+[ ] Complete company policy orientation
+[ ] Set up company accounts and required access
+[ ] Review role responsibilities with manager
+[ ] Confirm first-week schedule
+
+Note: Verify the information before using this document for actual onboarding.

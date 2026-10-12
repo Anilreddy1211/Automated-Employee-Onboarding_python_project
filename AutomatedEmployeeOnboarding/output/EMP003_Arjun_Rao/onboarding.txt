@@ -1,0 +1,19 @@
+EMPLOYEE ONBOARDING RECORD
+==========================
+
+Employee ID: EMP003
+Employee Name: Arjun Rao
+Department: IT Support
+Role: Support Engineer
+Joining Date: 2026-10-25
+Reporting Manager: Kiran Kumar
+Processed Date: 2026-10-12
+
+ONBOARDING CHECKLIST
+[ ] Verify identity and employment documents
+[ ] Complete company policy orientation
+[ ] Set up company accounts and required access
+[ ] Review role responsibilities with manager
+[ ] Confirm first-week schedule
+
+Note: Verify the information before using this document for actual onboarding.
